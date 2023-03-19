@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Delusion", "gray", [117, 103, 137]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "",
+
+	"storyName": "Deadly Delusion",
+	"weekBefore": "",
+	"weekName": "Week 6",
+	"startUnlocked": true,
+	"difficulties": "remix",
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
